@@ -1,0 +1,87 @@
+header{
+    background-image: url(./shifaaz-shamoon-qtbV_8P_Ksk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.head{
+    margin-left: 25px;
+}
+
+.search{
+    height: 200px;
+    width: 100%;
+    background-image: url(./anil-xavier-Qb8cxypbx8s-unsplash.jpg);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+h2{
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+body{
+
+    background: #d1d5db;
+}
+
+.height{
+
+    height: 100vh;
+}
+
+.form{
+
+    position: relative;
+}
+
+.form .fa-search{
+
+    position: absolute;
+    top:20px;
+    left: 20px;
+    color: #9ca3af;
+
+}
+
+.form span{
+
+        position: absolute;
+    right: 17px;
+    top: 13px;
+    padding: 2px;
+    border-left: 1px solid #d1d5db;
+
+}
+
+.left-pan{
+    padding-left: 7px;
+}
+
+.left-pan i{
+   
+   padding-left: 10px;
+}
+
+.form-input{
+
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 10px;
+}
+
+.form-input:focus{
+
+    box-shadow: none;
+    border:none;
+}
+.container ,my-5{
+    background-color: rgb(0, 102, 255);
+}
